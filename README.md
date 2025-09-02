@@ -1,23 +1,29 @@
-# 🐾 Programação Mobile 
+# 🐍 Teste com Flet - Dizer Olá
 
-Um aplicativo mobile desenvolvido com **Flet (Python)** para exibir uma galeria interativa de animais com filtros por **categoria**, **tamanho** e **busca por nome**.
+Um pequeno projeto em **Python** utilizando o framework **[Flet](https://flet.dev/)** para criar uma interface gráfica simples onde o usuário digita seu nome e recebe uma saudação.
 
 ---
 
-## 📱 Funcionalidades
-✔ Exibição de cards com informações dos animais  
-✔ Filtro por **categoria** (Doméstico, Selvagem, Aquático)  
-✔ Filtro por **tamanho** (Pequeno, Médio, Grande)  
-✔ Campo de **busca** para localizar animais pelo nome  
-✔ Contador mostrando quantidade de resultados filtrados  
-✔ Interface responsiva e estilizada com **animações**  
+## ✅ Funcionalidade
+- Campo de texto para inserir o nome
+- Botão para exibir uma saudação personalizada
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 - **Python 3.x**
-- **Flet** (Framework para interfaces gráficas)
-- **GridView** para organização dos cards
-- **Eventos reativos** (`on_change`, `on_click`)
+- **Flet** (Framework para UI multiplataforma)
 
 ---
+
+## 📂 Estrutura do Projeto
+bash
+📦 projeto-flet-ola
+ ┣ 📜 main.py       # Código principal
+ ┗ 📜 README.md     # Documentação
+
+---
+
+ ### 📌 Autor
+👤 Isabela Paiola
+🔗 Meu linkedin: www.linkedin.com/in/isabela-paiola
